@@ -29,4 +29,18 @@ Backend architecture show a resolution problem using Golang, PostgreSQL and Mong
 * Kubernetes: Open source platform for managing containerized workloads and services.
 * S3: Amazon S3 storage service.
 
+# Supported use-cases
+
+* Backend systems running around the world.
+* Multiples user connected.
+* Supports to differents users categories.
+* API's always avaliables.
+
+# Out of scope
+
+* Error handling
+* Automation of setup for adding support of cities.
+* Notifications on areas that are not located in the world.
+* Notifications messages specific to an individual "station" within a city.
+
 
