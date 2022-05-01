@@ -55,3 +55,14 @@ The company has developer teams programmers in Frontend's developer will to crea
 * Automation of setup for adding support of cities.
 * Notifications on areas that are not located in the world.
 * Notifications messages specific to an individual "station" within a city.
+
+# Architecture
+
+## Diagrams
+
+![GENERAL DIAGRAM](https://res.cloudinary.com/dohkdu219/image/upload/v1651366661/backend-architecture/general_qsl51a.jpg "GENERAL DIAGRAM")
+
+## Data models
+
+![RELATIONSHIP ENTITY](https://res.cloudinary.com/dohkdu219/image/upload/v1651368794/backend-architecture/database_lpnx20.jpg "RELATIONSHIP ENTITY")
+
