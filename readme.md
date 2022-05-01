@@ -66,3 +66,22 @@ The company has developer teams programmers in Frontend's developer will to crea
 
 ![RELATIONSHIP ENTITY](https://res.cloudinary.com/dohkdu219/image/upload/v1651368794/backend-architecture/database_lpnx20.jpg "RELATIONSHIP ENTITY")
 
+# Limitations
+
+* In South America minimum 500ms latency to request http petition.
+* In South America minimum 500ms latency to response http petition.
+* General API to word North America, Europa and Asian minimum latency 600ms to request and response.
+
+# Costs
+
+
+| SERVICE | DETAILS  | AMOUNT  | UNIT COST  |  TOTAL  |
+| ------- | ------- | ------- | ------- |------- |
+| Amazon Lightsail | [[show details]][1]  | 2 | $160/month | $320/month |
+| Amazon Lightsail | [[show details]][1]  | 3 | $80/month | $240/month |
+| Amazon S3 | [[show details]][2]  | 1 | NaN | NaN |
+|  |  |  | **TOTAL** | $560/month |
+
+
+[1]: https://aws.amazon.com/es/lightsail/pricing/ "Amazon Lightsail"
+[2]: https://aws.amazon.com/es/s3/?nc=sn&loc=0 "Amazon S3"
