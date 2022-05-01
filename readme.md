@@ -14,7 +14,14 @@ Backend architecture show a resolution problem using Golang, PostgreSQL and Mong
 
 # Index
 
-1. Problematic [go now](documentation/problematic.md)
+1. Objetives [go now](#objectives)
+2. Client Requirement [go now](#client_requirement)
+3. Definitions and Acronyms [go now](#definitions-and-acronyms)
+4. Supported use-cases [go now](#supported-use-cases)
+5. Out of scope [go now](#out-of-scope)
+6. Architecture [go now](#architecture)
+7. Limitations [go now](#limitations)
+8. Cost [go now](#costs)
 
 # Objectives
 
@@ -85,3 +92,5 @@ The company has developer teams programmers in Frontend's developer will to crea
 
 [1]: https://aws.amazon.com/es/lightsail/pricing/ "Amazon Lightsail"
 [2]: https://aws.amazon.com/es/s3/?nc=sn&loc=0 "Amazon S3"
+
+
