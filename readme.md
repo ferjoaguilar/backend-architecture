@@ -18,6 +18,15 @@ Backend architecture show a resolution problem using Golang, PostgreSQL and Mong
 
 
 
+# Definitions and Acronyms
 
+**Note: The definitions and acronyms is using to backend developers to #RandomCameraReviews.**
+
+* API: Application program interface.
+* MongoDB: No-SQL database.
+* PostgreSQL: SQL database.
+* AWS: Amazon Web Services.
+* Kubernetes: Open source platform for managing containerized workloads and services.
+* S3: Amazon S3 storage service.
 
 
